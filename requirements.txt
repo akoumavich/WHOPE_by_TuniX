@@ -1,0 +1,15 @@
+gensim
+numpy 
+seaborn 
+pandas 
+dash_auth 
+wordcloud 
+scikit-learn
+Pillow
+regex
+nltk 
+colorama 
+tqdm 
+textblob 
+dash 
+plotly
