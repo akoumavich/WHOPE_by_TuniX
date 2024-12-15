@@ -1,0 +1,5 @@
+HAPPY_SMILEY="happy.png"
+SAD_SMILEY="sad.png"
+MARK="mark.png"
+TWITTER="twitter.png"
+HOPE="hope.png"
